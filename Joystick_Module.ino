@@ -190,7 +190,7 @@ void turnSingleLayerSetOn(int layerIdx, int posIdx, int colorIdx1, int colorIdx2
 }
 
 
-/*Spin swirling with changing colors
+/* Spin: swirling with changing colors
  * direc TRUE: upside down
  * FALSE: from bottom up
  * This only goes through once.
